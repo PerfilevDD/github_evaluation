@@ -42,4 +42,4 @@ class NamedTest:
         self.fn = fn
 
 # create a list with all testes
-all_checks: List[NamedTest] = []
+all_tests: List[NamedTest] = []
